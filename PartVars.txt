@@ -1,0 +1,9 @@
+"<div class=""single-review"">" & vbcrlf & vbTab & "<div class=""review-content"">" & vbcrlf & vbTab & vbTab & "<div class=""stars-holder"">" & vbcrlf & vbTab & vbTab & vbTab & "<div class=""stars-image"">" & vbcrlf & vbTab & vbTab & vbTab & vbTab & "<div class=""stars-active"" style=""width: 100%;"">"
+
+"</div>" & vbcrlf & vbTab & vbTab & vbTab & "</div>" & vbcrlf & vbTab & vbTab & "</div>" & vbcrlf & vbTab & vbTab & "<div class=""reviewer"">" & vbcrlf & vbTab & vbTab & vbTab & "<div class=""reviewer-name"">
+
+"</div>" & vbcrlf & vbTab & vbTab & vbTab & "<div class=""review-date"">" & vbcrlf & "
+
+"</div>" & vbcrlf & vbTab & vbTab & vbTab & "<div class=""review-description"">
+
+"</div>" & vbcrlf & vbTab & vbTab & "</div>" & vbcrlf & vbTab & "</div>" & vbcrlf & "</div>
