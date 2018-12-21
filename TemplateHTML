@@ -1,0 +1,14 @@
+<div class="single-review">
+	<div class="review-content">
+		<div class="stars-holder">
+			<div class="stars-image">
+				<div class="stars-active" style="width: 100%;">____</div>
+			</div>
+		</div>
+		<div class="reviewer">
+			<div class="reviewer-name">____</div>
+			<div class="review-date">____</div>
+			<div class="review-description">____</div>
+		</div>
+	</div>
+</div>
