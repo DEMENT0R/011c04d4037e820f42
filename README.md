@@ -1,1 +1,6 @@
-# 011c04d4037e820f42
+# VBA Excel
+## Using
+* Open .xlsm-file
+* Press Alt+F8
+* Select macros
+* Run macros
